@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080029130171",
+    "firebase_url": "https://ninja-hatori.firebaseio.com",
+    "project_id": "ninja-hatori",
+    "storage_bucket": "ninja-hatori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080029130171:android:8537b3c6098de1ddfea89e",
+        "android_client_info": {
+          "package_name": "com.example.ninjahatori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080029130171-38dl6qkpnfcdhp2qad14reviqkq4rei0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ninjahatori",
+            "certificate_hash": "cd2955010760670ebca983536ec89ef1caed96ae"
+          }
+        },
+        {
+          "client_id": "1080029130171-d07ivudjv131308b0rschieaa4d4jd0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdOCpDHFV-DEAs180MRRWr_520uvJv0bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080029130171-d07ivudjv131308b0rschieaa4d4jd0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
